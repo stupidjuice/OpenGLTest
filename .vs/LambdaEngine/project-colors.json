@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ae4b5907-f3d2-4186-9dc1-8f1e17ca2305": {
+      "ProjectGuid": "ae4b5907-f3d2-4186-9dc1-8f1e17ca2305",
+      "DisplayName": "LambdaEngine",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
