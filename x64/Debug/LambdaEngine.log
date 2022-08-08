@@ -1,8 +1,8 @@
 ﻿  Main.cpp
-C:\Users\Airer Undrscr Enythy\source\repos\LambdaEngine\Main.cpp(33,37): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
-C:\Users\Airer Undrscr Enythy\source\repos\LambdaEngine\Main.cpp(33,37): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Airer Undrscr Enythy\source\repos\LambdaEngine\Main.cpp(34,36): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
-C:\Users\Airer Undrscr Enythy\source\repos\LambdaEngine\Main.cpp(34,36): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Airer Undrscr Enythy\source\repos\LambdaEngine\Main.cpp(35,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
-C:\Users\Airer Undrscr Enythy\source\repos\LambdaEngine\Main.cpp(35,39): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-  LambdaEngine.vcxproj -> C:\Users\Airer Undrscr Enythy\source\repos\LambdaEngine\x64\Debug\LambdaEngine.exe
+C:\Users\Airer Undrscr Enythy\Documents\GitHub\OpenGLTest\Main.cpp(33,37): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Airer Undrscr Enythy\Documents\GitHub\OpenGLTest\Main.cpp(33,37): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Airer Undrscr Enythy\Documents\GitHub\OpenGLTest\Main.cpp(34,36): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Airer Undrscr Enythy\Documents\GitHub\OpenGLTest\Main.cpp(34,36): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Airer Undrscr Enythy\Documents\GitHub\OpenGLTest\Main.cpp(35,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Airer Undrscr Enythy\Documents\GitHub\OpenGLTest\Main.cpp(35,39): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  LambdaEngine.vcxproj -> C:\Users\Airer Undrscr Enythy\Documents\GitHub\OpenGLTest\x64\Debug\LambdaEngine.exe

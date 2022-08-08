@@ -95,7 +95,7 @@ int main()
     while (!glfwWindowShouldClose(window))
     {
         //clear screen
-        glClearColor(0.7f, 0.13f, 0.7f, 1.0f);
+        glClearColor(0.7f, 0.7f, 0.7f, 1.0f);
         glClear(GL_COLOR_BUFFER_BIT);
         //tell opengl which shader program to use
         glUseProgram(shaderProgram);
